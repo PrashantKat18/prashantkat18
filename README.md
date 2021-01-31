@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Katiyar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkat18&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkat18" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashan06902633" target="blank"><img src="https://img.shields.io/twitter/follow/prashan06902633?logo=twitter&style=for-the-badge" alt="prashan06902633" /></a> </p>
 
-- 💬 Ask me about **Angular, node, mysql,sql,javascript,bootstrap 4,Sass&Scss ,Css,html**
+- 💬 Ask me about **Angular,node,mysql,sql,javascript,bootstrap 4,Sass&Scss,Css,html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
