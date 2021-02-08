@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/prashant-katiyar-259378177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/prashant-katiyar-259378177" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/prashant.kat.77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/prashant.kat.77" height="30" width="40" /></a>
   <a href="https://github.com/PrashantKat18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/Prashantkat?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
