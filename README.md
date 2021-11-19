@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashan06902633" target="blank"><img src="https://img.shields.io/twitter/follow/prashan06902633?logo=twitter&style=for-the-badge" alt="prashan06902633" /></a> </p>
 
-- 💬 Ask me about **Angular,node,mysql,sql,javascript,bootstrap 4,Sass&Scss,Css,html**
+- 💬 Ask me about **Angular,Node,Mysql,Mongodb,sql,javascript,bootstrap 4,Sass&Scss,Css,html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
